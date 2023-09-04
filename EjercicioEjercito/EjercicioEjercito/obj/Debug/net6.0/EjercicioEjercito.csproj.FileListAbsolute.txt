@@ -1,0 +1,15 @@
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\bin\Debug\net6.0\EjercicioEjercito.exe
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\bin\Debug\net6.0\EjercicioEjercito.deps.json
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\bin\Debug\net6.0\EjercicioEjercito.runtimeconfig.json
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\bin\Debug\net6.0\EjercicioEjercito.dll
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\bin\Debug\net6.0\EjercicioEjercito.pdb
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\obj\Debug\net6.0\EjercicioEjercito.csproj.AssemblyReference.cache
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\obj\Debug\net6.0\EjercicioEjercito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\obj\Debug\net6.0\EjercicioEjercito.AssemblyInfoInputs.cache
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\obj\Debug\net6.0\EjercicioEjercito.AssemblyInfo.cs
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\obj\Debug\net6.0\EjercicioEjercito.csproj.CoreCompileInputs.cache
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\obj\Debug\net6.0\EjercicioEjercito.dll
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\obj\Debug\net6.0\refint\EjercicioEjercito.dll
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\obj\Debug\net6.0\EjercicioEjercito.pdb
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\obj\Debug\net6.0\EjercicioEjercito.genruntimeconfig.cache
+C:\Users\alumno1\source\repos\EjercicioEjercito\EjercicioEjercito\obj\Debug\net6.0\ref\EjercicioEjercito.dll

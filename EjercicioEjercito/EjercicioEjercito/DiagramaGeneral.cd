@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EjercicioEjercito.Infanteria.Ametrallador" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABgAAAAAQAAAAEAAAACAAAAAAAAI=</HashCode>
+      <FileName>Infanteria\Ametrallador.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EjercicioEjercito.Infanteria.InfanteriaBasica" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABgAAAAAQAAAAEAAAACAAAAAAAAI=</HashCode>
+      <FileName>Infanteria\InfanteriaBasica.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EjercicioEjercito.Infanteria.Sanitario" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABgAAAAAQAAAAFAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Infanteria\Sanitario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EjercicioEjercito.Caballeria.TanqueDeAtaque" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.25" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAACAAAAAAABgAAAAAQAAAAFAAAAAAAAAAIAAI=</HashCode>
+      <FileName>Caballeria\TanqueDeAtaque.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EjercicioEjercito.Caballeria.Transporte" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="27" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABgAAAAAQAAAAFAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Caballeria\Transporte.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EjercicioEjercito.Caballeria.TransporteRapido" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.75" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABgAAAAAQAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caballeria\TransporteRapido.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EjercicioEjercito.Cañon" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAQAAAAEAAAACAAAAAAAAI=</HashCode>
+      <FileName>Artilleria\Cañon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EjercicioEjercito.CañonAntiaereo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABgAAAAAQAAAAEAAAACAAAAAAAAI=</HashCode>
+      <FileName>Artilleria\CañonAntiaereo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EjercicioEjercito.TorpederoMovil" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAABgAAAAAQAAAAFAAAACAAAAAIAAI=</HashCode>
+      <FileName>Artilleria\TorpederoMovil.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EjercicioEjercito.ColeccionEjercito" Collapsed="true">
+    <Position X="27" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAAAAAAACCAAAAAAEAAEAAAAAAACAAAAAAAQUQCEAA=</HashCode>
+      <FileName>ColeccionEjercito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EjercicioEjercito.Interfaces.IBlindado" Collapsed="true">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IBlindado.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EjercicioEjercito.Interfaces.ICoste" Collapsed="true">
+    <Position X="13.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICoste.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EjercicioEjercito.Interfaces.IDestructor" Collapsed="true">
+    <Position X="18.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Interfaces\IDestructor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EjercicioEjercito.Interfaces.IMovil" Collapsed="true">
+    <Position X="21" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IMovil.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EjercicioEjercito.Infanteria.IInfanteria" Collapsed="true">
+    <Position X="16.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infanteria\IInfanteria.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EjercicioEjercito.Caballeria.ICaballeria" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Caballeria\ICaballeria.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EjercicioEjercito.Artilleria.IArtilleria" Collapsed="true">
+    <Position X="13.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Artilleria\IArtilleria.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EjercicioEjercito.IEjercito" Collapsed="true">
+    <Position X="16.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IEjercito.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

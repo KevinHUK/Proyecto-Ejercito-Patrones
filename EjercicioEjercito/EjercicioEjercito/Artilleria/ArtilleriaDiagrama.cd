@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EjercicioEjercito.CañonAntiaereo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgCQAAAAAAAgAAAAQQAAAAAAAAAAAAAAAgAEI=</HashCode>
+      <FileName>Artilleria\CañonAntiaereo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EjercicioEjercito.TorpederoMovil" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAgCQAAAAAAAgAAAAYQAAAABAAAAAAAAAAgAEI=</HashCode>
+      <FileName>Artilleria\TorpederoMovil.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EjercicioEjercito.Cañon" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAgAAAAAQAAAAAAAAAAAAAAAgAEI=</HashCode>
+      <FileName>Artilleria\Cañon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="EjercicioEjercito.Artilleria.IArtilleria" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Artilleria\IArtilleria.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
